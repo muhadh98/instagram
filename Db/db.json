@@ -1,0 +1,142 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "username": "muhaa.dev",
+            "profilePic": "https://i.pravatar.cc/150?img=12",
+            "caption": "Deploying updates like a beast 🔥",
+            "imageUrl": "https://picsum.photos/600?random=11",
+            "likes": 52,
+            "createdAt": "2025-01-10T09:30:00Z",
+            "relatedPosts": [
+                2,
+                3
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "lanka_coder",
+                    "text": "Bro this is clean 🔥"
+                },
+                {
+                    "id": 2,
+                    "username": "dev_prabha",
+                    "text": "Ship it! 🚀"
+                },
+                {
+                    "id": 3,
+                    "username": "fari_sri",
+                    "text": "Inspo content 😍"
+                },
+                {
+                    "id": 4,
+                    "username": "nuwan.tech",
+                    "text": "Next level da!"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "username": "tech_girl",
+            "profilePic": "https://i.pravatar.cc/150?img=25",
+            "caption": "Coffee + Code = Productivity ☕💻",
+            "imageUrl": "https://picsum.photos/600?random=22",
+            "likes": 34,
+            "createdAt": "2025-01-11T11:15:00Z",
+            "relatedPosts": [
+                1,
+                4
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "sri_ui",
+                    "text": "Mood! ☕💛"
+                },
+                {
+                    "id": 2,
+                    "username": "dilshan_codes",
+                    "text": "Coder fuel 😂"
+                },
+                {
+                    "id": 3,
+                    "username": "hashmi.tech",
+                    "text": "Love this vibe ✨"
+                },
+                {
+                    "id": 4,
+                    "username": "janidu",
+                    "text": "Where’s the cafe? 😍"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "username": "travel_life",
+            "profilePic": "https://i.pravatar.cc/150?img=30",
+            "caption": "Exploring Ella today 🇱🇰🍃",
+            "imageUrl": "https://picsum.photos/600?random=33",
+            "likes": 89,
+            "createdAt": "2025-01-12T14:50:00Z",
+            "relatedPosts": [
+                1
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "trips_with_saj",
+                    "text": "Ella top tier 🔥"
+                },
+                {
+                    "id": 2,
+                    "username": "zoom_lanka",
+                    "text": "Nice shot bro 📸"
+                },
+                {
+                    "id": 3,
+                    "username": "kavi.explorer",
+                    "text": "Take me toooo 😭"
+                },
+                {
+                    "id": 4,
+                    "username": "ilan_travels",
+                    "text": "Chill place ❤️"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "username": "foodie_kid",
+            "profilePic": "https://i.pravatar.cc/150?img=45",
+            "caption": "Koththu night hits different 🔥🍴",
+            "imageUrl": "https://picsum.photos/600?random=44",
+            "likes": 67,
+            "createdAt": "2025-01-13T20:10:00Z",
+            "relatedPosts": [
+                2
+            ],
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "eat_with_shehan",
+                    "text": "Broooo I'm hungry now 😭"
+                },
+                {
+                    "id": 2,
+                    "username": "food_lk",
+                    "text": "That looks 🔥🔥"
+                },
+                {
+                    "id": 3,
+                    "username": "madu_treats",
+                    "text": "Where is this? 😍"
+                },
+                {
+                    "id": 4,
+                    "username": "the_sunday_foodie",
+                    "text": "Legendary choice!"
+                }
+            ]
+        }
+    ]
+}
